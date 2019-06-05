@@ -16,6 +16,8 @@ def hopper
         }
      }
 
+puts programmer_hash["grace_hopper", "known_for", "languages"]
+programmer_hash
 
 end
 
@@ -37,6 +39,10 @@ def alan_kay_is_known_for
           :languages => ["C"]
         }
      }
+
+programmer_hash[:alan_kay][:known_for]
+programmer_hash
+
 end
 
 def dennis_ritchies_language
