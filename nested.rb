@@ -112,7 +112,7 @@ def changing_alan
         
     programmer_hash[:alan_kay][:known_for] = "GUI"
     puts programmer_hash
-    end 
+    
 end
 
 def adding_to_dennis
