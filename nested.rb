@@ -17,7 +17,6 @@ def hopper
      }
 
   puts programmer_hash["grace_hopper"]
-end
 return
   programmer_hash
 end
